@@ -1,0 +1,4 @@
+.tablesort{display:inline-block;width:16px;height:16px;background-size:100%;}.tablesort--asc{background-image:url(../../../../core/misc/icons/787878/twistie-down.svg);}.tablesort--desc{background-image:url(../../../../core/misc/icons/787878/twistie-up.svg);}
+div.tree-child{background:url(../../../../core/misc/tree.png) no-repeat 11px center;}div.tree-child-last{background:url(../../../../core/misc/tree-bottom.png) no-repeat 11px center;}[dir="rtl"] div.tree-child,[dir="rtl"] div.tree-child-last{background-position:-65px center;}div.tree-child-horizontal{background:url(../../../../core/misc/tree.png) no-repeat -11px center;}
+.responsive-figure-table{max-width:100%;overflow-x:auto;margin:0;}
+.ui-dialog ~ .ck-body-wrapper{--ck-z-modal:1261;}
