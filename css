@@ -1,0 +1,84 @@
+﻿@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 300;
+  src: url(s/jost/v14/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBI4kmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/jost/v14/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBI4kmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 500;
+  src: url(s/jost/v14/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBI4kmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 600;
+  src: url(s/jost/v14/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBI4kmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/jost/v14/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBI4kmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 800;
+  src: url(s/jost/v14/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBI4kmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 900;
+  src: url(s/jost/v14/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBI4kmw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/jost/v14/92zPtBhPNqw79Ij1E865zBUv7mz9JTVFNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/jost/v14/92zPtBhPNqw79Ij1E865zBUv7myjJTVFNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/jost/v14/92zPtBhPNqw79Ij1E865zBUv7myRJTVFNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/jost/v14/92zPtBhPNqw79Ij1E865zBUv7mx9IjVFNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/jost/v14/92zPtBhPNqw79Ij1E865zBUv7mxEIjVFNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 800;
+  src: url(s/jost/v14/92zPtBhPNqw79Ij1E865zBUv7mwjIjVFNI0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 900;
+  src: url(s/jost/v14/92zPtBhPNqw79Ij1E865zBUv7mwKIjVFNI0.ttf) format('truetype');
+}
